@@ -76,7 +76,7 @@ Error generating stack: `+l.message+`
     align-self: flex-end;
     transform: scale(-1, -1);
   }
-`,xc=({value:u,suite:c})=>{const r=()=>u<=10?u:u===11?"J":u===12?"Q":u===13?"K":u===14?"A":"?",f=()=>{if(c==="hearts")return"♥";if(c==="diamonds")return"♦";if(c==="clubs")return"♣";if(c==="spades")return"♠"};return J.jsxs(lg,{children:[J.jsx("div",{style:{color:c==="hearts"||c==="diamonds"?"#cb1a1d":"#161413"},children:r()}),J.jsx("div",{style:{color:c==="hearts"||c==="diamonds"?"#cb1a1d":"#161413"},children:f()}),J.jsx("div",{style:{color:c==="hearts"||c==="diamonds"?"#cb1a1d":"#161413"},children:r()})]})},ng="/assets/image-DeuYAK0e.png",ag=ge.div`
+`,xc=({value:u,suite:c})=>{const r=()=>u<=10?u:u===11?"J":u===12?"Q":u===13?"K":u===14?"A":"?",f=()=>{if(c==="hearts")return"♥";if(c==="diamonds")return"♦";if(c==="clubs")return"♣";if(c==="spades")return"♠"};return J.jsxs(lg,{children:[J.jsx("div",{style:{color:c==="hearts"||c==="diamonds"?"#cb1a1d":"#161413"},children:r()}),J.jsx("div",{style:{color:c==="hearts"||c==="diamonds"?"#cb1a1d":"#161413"},children:f()}),J.jsx("div",{style:{color:c==="hearts"||c==="diamonds"?"#cb1a1d":"#161413"},children:r()})]})},ng="image-DeuYAK0e.png",ag=ge.div`
   width: 100vw;
   height: 18vmax;
   background-color: rgba(0, 0, 0, 0.1);
